@@ -1,3 +1,5 @@
+#include "binary_trees.h"
+
 /**
  * bst_smallest - finds the smallest node from a Binary Search Tree
  * @root: a pointer to the root node of the tree
@@ -12,8 +14,6 @@ bst_t *bst_smallest(bst_t *root)
 
 	return (small);
 }
-
-#include "binary_trees.h"
 
 /**
  * bst_remove - removes a node from a Binary Search Tree
