@@ -1,4 +1,6 @@
 #include "binary_trees.h"
+#include "102-binary_tree_is_complete.c"
+
 /**
  * check_max - looks for max value
  * @tree: pointer to the root
