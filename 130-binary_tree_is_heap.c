@@ -2,7 +2,7 @@
 #include "102-binary_tree_is_complete.c"
 
 /**
- * check_max - looks for max value
+ * _max - looks for max value
  * @tree: pointer to the root
  * Return: 1 if all nodes are max, 0 in other cases
  **/
